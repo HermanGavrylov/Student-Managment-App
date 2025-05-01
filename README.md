@@ -17,10 +17,10 @@ This project simplifies the complexities of student record management. The core 
 
 ## Prerequisites
 
-This project requires the following dependencies:
+This project requires:
 
-* <b>Programming Language:</b> Python <br>
-* <b>Package Manager:</b> Conda <br>
+- 🐍 Python
+- 📦 Conda package manager
 
 ## Installation
 
@@ -46,14 +46,14 @@ Run the project with:
 
 <b> Using conda: </b>
 
-`conda activate {venv} <br>
-python {entrypoint}`
+`conda activate student-mgmt-env <br>
+python main.py`
 
 ## Testing
 
-Student-managment-app uses the <b>{test_framework}</b> test framework. Run the test suite with:
+Student-managment-app uses the <b>pytest</b> test framework. Run the test suite with:
 
 <b>Using conda:</b>
 
-`conda activate {venv}
+`conda activate student-mgmt-env
 pytest`
