@@ -1,0 +1,11 @@
+name: student-mgmt-env
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - pip:
+    - pytest
+    - sqlite3
+    - sys
+    - PyQt6
