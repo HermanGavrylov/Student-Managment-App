@@ -9,7 +9,7 @@ This project simplifies the complexities of student record management. The core 
 
 - 🎨 User-friendly Interface: Simplifies interaction with student records, making it accessible for all users. <br>
 - 📊 CRUD Operations: Easily add, edit, search, and delete student information with minimal effort. <br>
-- 🗄️ SQLite Database Integration: Leverages a reliable and lightweight database for efficient data storage. <br>
+- 🗄️ MySQL Database Integration: Provides scalable and efficient data storage for multi-user and large-scale applications. <br>
 - 🖥️ Structured Layout: Features menus and toolbars that enhance navigation and user experience. <br>
 - 📈 Status Bar Visibility: Provides real-time feedback and information for better data management. <br>
 
